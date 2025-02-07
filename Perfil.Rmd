@@ -1,0 +1,27 @@
+---
+title: "Paola Godoy"
+image: "PaolaGodoy.jpeg"
+links:
+
+  - label: '`r fontawesome::fa(name = "github", fill = "steelblue")` Github'
+    url: "https://github.com/sc0blyy"
+  - label: '`r fontawesome::fa(name = "envelope", fill = "steelblue")` Mail'
+    url: "sc0bly16@hotmail.com"
+  - label: '`r fontawesome::fa(name = "user", fill = "steelblue")` CV'
+    url: "cv_PaolaGodoy.html"
+  - label: '`r fontawesome::fa(name = "user", fill = "steelblue")` CV PDF'
+    url: "PaolaGodoy_cv.pdf"
+output:
+  postcards::jolla
+---
+
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+```
+
+
+#### **Education**
+Currently an undergraduate student in Genomic Sciences at the UNAM program at ENES Juriquilla. I am interested in variant detection | Cancer Genetics Lab | Bioinformatics.
+
+### 
+
